@@ -16,7 +16,7 @@ Framework ten ma na celu zapobieganie niekontrolowanej władzy pojedynczej osoby
   - Nowi członkowie mogą dołączyć po zgłoszeniu 5 udanych propozycji (przyjętych i wdrożonych).
 
 ### Koordynator Zmian
-- **Początkowe Wyznaczenie**: @norbert
+- **Początkowe Wyznaczenie**: `@norbert`
 - **Obowiązki**:
   - Zarządzanie kanałem forum z propozycjami, dbanie o terminowość i porządek w dyskusjach.
   - Podliczanie głosów i ogłaszanie wyników.
@@ -29,7 +29,7 @@ Framework ten ma na celu zapobieganie niekontrolowanej władzy pojedynczej osoby
   - Koordynator może zostać odwołany przez Arbitra w uzasadnionych przypadkach, takich jak niewywiązywanie się z obowiązków lub łamanie regulaminu serwera.
 
 ### Arbiter
-- **Początkowe Wyznaczenie**: @Mateusz
+- **Początkowe Wyznaczenie**: `@Mateusz`
 - **Obowiązki**:
   - Interwencja w przypadku poważnych konfliktów lub załamania procesu.
   - Dbanie o integralność procesu decyzyjnego.
@@ -63,7 +63,7 @@ Framework ten ma na celu zapobieganie niekontrolowanej władzy pojedynczej osoby
 - **Odwołanie Koordynatora**: Arbiter może odwołać Koordynatora w uzasadnionych przypadkach, takich jak niewywiązywanie się z obowiązków lub łamanie regulaminu.
 
 ## Początkowa Konfiguracja i Przejście
-- Początkowa Rada Decyzyjna składa się z: @Ugz, @kaluzaaa, @Oskar Dudycz, @Kamil Kiełbasa, @Thunderer, @Mateusz
-- Norbert pełni rolę pierwszego Koordynatora Zmian przez okres 6 miesięcy.
-- Mateusz pełni rolę początkowego Arbitra.
+- Początkowa Rada Decyzyjna składa się z: `@Ugz`, `@kaluzaaa`, `@Oskar Dudycz`, `@Kamil Kiełbasa`, `@Thunderer`, `@Mateusz`
+- `@norbert` pełni rolę pierwszego Koordynatora Zmian przez okres 6 miesięcy.
+- `@mateusz` pełni rolę początkowego Arbitra.
 - Proces zostanie poddany przeglądowi po 6 miesiącach w celu oceny jego skuteczności i wprowadzenia ewentualnych zmian.
