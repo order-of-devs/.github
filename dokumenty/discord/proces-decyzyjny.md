@@ -71,7 +71,7 @@ sprawiedliwości.
 ## Przypadki Brzegowe i Rozwiązywanie Konfliktów
 
 - **Remis w Głosowaniu**: W przypadku remisu propozycja zostaje odrzucona.
-- **Nieaktywni Członkowie Rady**: Jeśli członek rady nie głosuje w 3 kolejnych propozycjach, zostaje usunięty, a nowy
+- **Nieaktywni Członkowie Rady**: Jeśli członek rady nie głosuje przez okres 3 miesięcy w kolejnych propozycjach, zostaje usunięty, a nowy
   członek jest wybierany przez pozostałych członków rady i Arbitra.
 - **Spory**: Drobne spory rozstrzyga Koordynator Zmian. Poważne spory lub załamania procesu są rozwiązywane przez
   Arbitra.
