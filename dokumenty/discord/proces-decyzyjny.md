@@ -58,7 +58,8 @@ sprawiedliwości.
     - Trwa 7 dni, podczas których członkowie społeczności mogą udzielać feedbacku i dyskutować nad propozycją w wątku.
 
 3. **Faza Głosowania**:
-    - Po zakończeniu dyskusji Rada Decyzyjna głosuje, używając reakcji (np. 👍 za "tak", 👎 za "nie", ).
+    - Po zakończeniu dyskusji Rada Decyzyjna głosuje, używając reakcji (np. 👍 za "tak", 👎 za "nie", 🤷‍♂️ za 
+      "wstrzymanie się od głosu").
     - Głosowanie trwa 3 dni.
     - Propozycja zostaje zaakceptowana, jeśli otrzyma większość głosów (ponad 50% członków rady).
     - Po zakończeniu głosowania Koordynator podsumowuje wyniki głosowania i przystępuje do realizacji zadania.
