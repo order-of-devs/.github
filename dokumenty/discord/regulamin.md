@@ -2,150 +2,149 @@
 
 ---
 
-## 🏛️ **ZASADY PODSTAWOWE**
+## 🏛️ **ZASADY WSPÓŁPRACY**
 
 ### **1. Szacunek i kultura osobista**
 - 🤝 **Bądź uprzejmy i profesjonalny** - traktuj innych tak, jak chcesz być traktowany
-- 🚫 **Zakaz braku szacunku**: obrażania, wyzwisk, agresywnych komentarzy
-- 💬 **Konstruktywna komunikacja** - krytykuj rozwiązania, nie osoby
-- ⚖️ **Równość**: Każdy ma prawo zadawać pytania, niezależnie od poziomu umiejętności
-- 🚫 **Nie kłóć się** z członkami serwera ani administracją
+- 💬 **Okazuj szacunek** każdemu członkowi społeczności
+- 🎯 **Koncentruj się na rozwiązaniach** - dyskutuj o kodzie i pomysłach, nie o osobach
+- ⚖️ **Wspieraj początkujących** - każde pytanie jest wartościowe
+- 🕊️ **Zachowaj spokój w dyskusjach** - unikaj prowokacji i bezcelowej wymiany opinii
+- 🚪 **Zachowaj otwartość dyskusji** - każdy ma prawo do udziału w publicznej rozmowie. Dla prywatnych dyskusji używaj kanałów głosowych lub wiadomości prywatnych
 
-### **2. Zawartość i bezpieczeństwo**
-- 🔞 **Zakaz treści NSFW** - żadnych nieodpowiednich treści
-- 🦠 **NATYCHMIASTOWY BAN** za: wirusy, IP grabbery, malware, szkodliwe pliki
-- 🚫 **Zakaz dyskryminacji** i rasizmu w jakiejkolwiek formie
-- ⚠️ **Bez gróźb** - w tym DDoS, śmierci, wszelkich złośliwych gróźb = **INSTANT PERM BAN**
-- 🎭 **Bez podszywania się** pod członków administracji
+### **2. Bezpieczna zawartość**
+- 🌟 **Udostępniaj treści odpowiednie dla wszystkich** - profesjonalne i merytoryczne
+- 🛡️ **Dbaj o bezpieczeństwo** - sprawdzaj pliki przed udostępnieniem
+- 🤝 **Promuj równość i szacunek** dla wszystkich członków
+- ✨ **Buduj pozytywną atmosferę** - wspieraj innych konstruktywnie
+- 👤 **Prezentuj się autentycznie** - używaj swojego prawdziwego nicku
 
-### **3. Avatary, nicki i tożsamość** 
-- 👤 **Odpowiednie avatary i nicki** - bez nieodpowiednich obrazów/nazw
-- 🚫 **Zakaz trollingu** wykraczającego poza żartobliwe zachowanie
-- 🎪 **Bez dramatów** - nie rozpoczynaj konfliktów
-- 📝 **Zakaz pustych lub nieczytelnych nicków**
+### **3. Tożsamość i prezentacja** 
+- 👔 **Wybieraj profesjonalne avatary i nicki** 
+- 😊 **Zachowuj przyjazny humor** - żarty w granicach dobrego smaku
+- 🌈 **Twórz pozytywną atmosferę** - bądź częścią rozwiązania
+- 📝 **Używaj czytelnych nicków** - ułatwiaj komunikację
 
 ---
 
-## 💻 **ZASADY TECHNICZNE I KOMUNIKACJA**
+## 💻 **DOBRE PRAKTYKI TECHNICZNE**
 
 ### **4. Format kodu i dzielenie się wiedzą**
-- ✅ **Formatowanie kodu**: Używaj bloków kodu \```język
-- ✅ **Dla długiego kodu**: GitHub Gist, Pastebin lub repozytorium
-- 📝 **Dodawaj opisy** do udostępnianych linków (chyba że oczywiste)
-- 👨‍🏫 **Pomagaj w nauce** - kieruj do rozwiązań, nie rozwiązuj za innych
-- 🔍 **Konkretne pytania** - unikaj "nie działa", opisz problem szczegółowo
+- ✅ **Formatuj kod czytelnie**: Używaj bloków kodu \```język
+- 📁 **Dla długiego kodu używaj**: GitHub Gist, Pastebin lub repozytorium
+- 📝 **Opisuj udostępniane linki** - pomagaj innym zrozumieć zawartość
+- 👨‍🏫 **Ucz przez wskazówki** - pomagaj znaleźć rozwiązanie
+- 🔍 **Zadawaj konkretne pytania** - opisz dokładnie problem i kontekst
 
-### **5. Właściwość intelektualna**
-- 🏢 **Nie udostępniaj** kodu objętego NDA lub własnością firmy
-- 🚫 **Zakaz piractwa** - bez nielegalnego oprogramowania i linków
-- 📄 **Szanuj prawa autorskie** - nie kopiuj/nie przypisuj sobie cudzej pracy
-- 💡 **Cytuj źródła** inspiracji dla algorytmów i rozwiązań
+### **5. Etyka zawodowa**
+- 🏢 **Respektuj poufność** - udostępniaj tylko swój kod lub publiczny
+- 📚 **Korzystaj z legalnego oprogramowania** 
+- 🎨 **Doceniaj pracę innych** - cytuj źródła i autorów
+- 💡 **Dziel się inspiracjami** - wskazuj źródła algorytmów i pomysłów
 
 ---
 
-## 🗣️ **KOMUNIKACJA PO POLSKU I SPAM**
+## 🗣️ **KOMUNIKACJA I SPOŁECZNOŚĆ**
 
 ### **6. Zasady językowe**
-- 🇵🇱 **Tylko polski** - główny język forum
-- 🤐 **Unikaj używania wulgaryzmów** jako formy przecinkowej
-- 💬 **Jakość wiadomości** - staraj się o czytelną i merytoryczną komunikację
-- 🔗 **Linki z opisem** - przy udostępnianiu linków dodawaj krótki opis zawartości
+- 🇵🇱 **Komunikuj się po polsku** - to nasz wspólny język
+- 💬 **Dbaj o kulturę słowa** - wybieraj profesjonalny język
+- 📖 **Pisz czytelnie i merytorycznie** 
+- 🔗 **Opisuj udostępniane linki** - ułatwiaj zrozumienie treści
 
-### **7. ZERO TOLERANCJI DLA SPAM**
-- 🚫 **Bez spamowania** wiadomościami, emoji, naklejkami
-- 📢 **NIE TAGUJ @everyone** - grozi banem
-- 🔔 **Bez bezsensownych tagów** - taguj tylko gdy to konieczne
-- 🔄 **Bez powtarzania** tej samej wiadomości
-- 📝 **Bez wielkich bloków tekstu** zalewających chat
-- 🎵 **Bez zapętlania** tej samej muzyki w botach
-- ⛓️ **Bez message chains** - łańcuchów wiadomości
+### **7. Efektywna komunikacja**
+- 💎 **Nie bądź trollem** - jakość ponad ilość
+- 🎯 **Taguj rozważnie** - tylko gdy to naprawdę potrzebne
+- 📝 **Formułuj zwięźle** - jedna myśl na wiadomość
+- 🎵 **Korzystaj z botów muzycznych odpowiedzialnie**
+- 🔄 **Unikaj powtórzeń** - sprawdź czy ktoś już odpowiedział
+- 💬 **Przyjmuj wszystkie głosy w dyskusji** - na otwartym forum każdy może się wypowiedzieć. Stwierdzenia typu "nie interesuje mnie twoja opinia" czy "kończę ten wątek" są niewłaściwe - jeśli potrzebujesz zamkniętej dyskusji, użyj kanału głosowego lub wiadomości prywatnych. Wyjątek: administratorzy mogą zakończyć dyskusję, gdy wymaga tego dobro społeczności
 
 ### **8. Organizacja forum**
-- 📍 **Właściwy kanał** - publikuj w odpowiednich kategoriach
-- 🔄 **Nie crosspostuj** bez potrzeby
-- 💬 **Używaj wątków** dla długich dyskusji
-- 📌 **Sprawdzaj przypięte** wiadomości przed pytaniem
-- 🎯 **Trzymaj się tematu** - nie schodź z głównego wątku
+- 📍 **Wybieraj właściwy kanał** dla swojej wiadomości
+- 🧵 **Używaj wątków** dla dłuższych dyskusji
+- 📌 **Sprawdzaj przypięte wiadomości** przed zadaniem pytania
+- 🎯 **Trzymaj się tematu** kanału i dyskusji
+- 🔄 **Publikuj raz w odpowiednim miejscu**
 
 ---
 
-## 💼 **PROMOCJA I REKLAMY**
+## 💼 **PROJEKTY I PORTFOLIO**
 
-### **9. Self-promotion i linki**
-- 🚫 **Bez spamu promocyjnego** - nie zalewaj kanałów reklamami
-- 📝 **Portfolio i projekty** - dozwolone w odpowiednich kanałach
-- 🔗 **Linki zewnętrzne** - zawsze z krótkim opisem zawartości
-- 🚫 **Bez reklam** serwerów Discord, innych platform bez zgody
-- 🚫 **Bez MLM/piramid** finansowych
+### **9. Prezentacja swoich prac**
+- 🌟 **Dziel się projektami** w dedykowanych kanałach
+- 📝 **Przedstawiaj portfolio konstruktywnie** 
+- 🔗 **Opisuj linki zewnętrzne** - co znajdą inni po kliknięciu
+- 🤝 **Promuj wartościowe treści** - dziel się wiedzą
+- 💡 **Inspiruj innych** swoimi rozwiązaniami
 
 ---
 
-## ⚖️ **MODERACJA I KONSEKWENCJE**
+## ⚖️ **WSPÓŁPRACA Z MODERACJĄ**
 
-### **10. System kar**
-1. **Pierwsze naruszenie**: Ostrzeżenie
-2. **Drugie naruszenie**: Timeout 24h
-3. **Trzecie naruszenie**: Kick
-4. **Czwarte naruszenie**: Ban permanentny
+### **10. System wsparcia**
+Staramy się najpierw pomóc:
+1. **Pierwsza sytuacja**: Przyjazne przypomnienie
+2. **Powtórka**: Przerwa na ochłonięcie (24h)
+3. **Dalsze problemy**: Czasowe wyłączenie z forum
+4. **Uporczywe łamanie zasad**: Stałe wykluczenie
 
-**NATYCHMIASTOWY BAN** może zostać zastosowany po decyzji administracji za:
-- **Notoryczne łamanie regulaminu** - wielokrotne ignorowanie zasad
-- **Świadome i szkodliwe działania** - celowe próby zaszkodzenia społeczności lub członkom
+**Bezpieczeństwo priorytetem**: W przypadku celowych działań szkodliwych lub zagrażających bezpieczeństwu, administracja podejmuje natychmiastowe działania.
 
-### **11. Dodatkowe zasady**
-- 🔍 **Nie pytaj o dane osobowe** innych użytkowników
-- 🔇 **Bez NSFW dźwięków/muzyki** w voice chat
-- 📹 **Nie nagrywaj** rozmów głosowych bez zgody
-- 🎮 **Streamuj tylko treści PG** - bez kontrowersyjnych materiałów
+### **11. Wskazówki dodatkowe**
+- 🔒 **Szanuj prywatność** innych użytkowników
+- 🎙️ **Zachowuj profesjonalizm** w rozmowach głosowych
+- 📹 **Pytaj o zgodę** przed nagrywaniem rozmów
+- 🎮 **Streamuj treści przyjazne** dla wszystkich odbiorców
 
 ---
 
 ## 📞 **KONTAKT I WSPARCIE**
 
-### **12. Administracja**
-- 👑 **Kontakt**: Przez @Administracja lub kanał #pomoc
-- 🚨 **Zgłaszanie problemów**: @Administracja, kanał #pomoc lub reakcja 🚨
-- 📧 **Problemy techniczne**: Opisz błąd w DM do @Administracja lub w #pomoc
-- ⏰ **Dostępność**: Odpowiadamy w miarę możliwości
-- 📋 **Sugestie**: Przekazuj przez @Administracja lub #pomoc
+### **12. Jak się kontaktować**
+- 👑 **Potrzebujesz pomocy?** Napisz do @Administracja lub na kanale #pomoc
+- 🚨 **Zauważyłeś problem?** Zgłoś przez @Administracja, #pomoc lub reakcję 🚨
+- 📧 **Błąd techniczny?** Opisz szczegóły w DM do @Administracja lub w #pomoc
+- ⏰ **Czekaj cierpliwie** - odpowiadamy jak najszybciej
+- 💡 **Masz pomysł?** Podziel się przez @Administracja lub #pomoc
+- ⚖️ **Decyzje moderacyjne** - administratorzy mają ostateczny głos w spornych sytuacjach. Jeśli dyskusja wymyka się spod kontroli lub narusza zasady forum, administrator może ją zakończyć dla dobra społeczności
 
 ---
 
-## 📋 **POSTANOWIENIA KOŃCOWE**
+## 📋 **NASZA MISJA**
 
-### **13. Ogólne zasady**
-- 📜 **Przestrzegaj regulaminu Discord** - ToS Discord obowiązuje
-- 👮 **Słuchaj administracji** - ich decyzje są ostateczne
-- 🎯 **Główny cel**: Budowanie profesjonalnej społeczności IT
-- 🔄 **Zmiany regulaminu**: Mogą nastąpić w dowolnym momencie
-- 🎉 **Najważniejsza zasada**: **BAW SIĘ DOBRZE!**
+### **13. Wspólne wartości**
+- 📜 **Przestrzegaj regulaminu Discord** 
+- 🤝 **Współpracuj z administracją** - jesteśmy tu dla Was, a nasze decyzje moderacyjne są ostateczne
+- 🎯 **Budujmy razem** profesjonalną społeczność IT
+- 🔄 **Rozwijamy się** - regulamin może ewoluować
+- 🎉 **Najważniejsze**: **CZERP RADOŚĆ ZE WSPÓLNEJ NAUKI!**
 
-### **14. Lista głównych zakazów**
-🚫 **Bez szacunku/arogancji**
-🚫 **Bez kłótni z członkami/administracją** 
-🚫 **Bez trollingu wykraczającego poza żarty**
-🚫 **Bez nieodpowiednich zachowań/avatarów/nicków**
-🚫 **Bez szkodliwych materiałów = INSTANT BAN**
-🚫 **Bez raidów serwera**
-🚫 **Bez gróźb wszelkiego rodzaju**
-🚫 **Bez treści NSFW**
-🚫 **Bez dyskryminacji/rasizmu**
-🚫 **DDoS/groźby śmierci = INSTANT PERM BAN**
-🚫 **Bez podszywania się (szczególnie pod staff)**
-🚫 **NIE TAGUJ @everyone**
-🚫 **Bez rozpoczynania dramatów**
-🚫 **Bez bezsensownych tagów**
-🚫 **Bez wykorzystywania błędów Discord**
-🚫 **Bez pytania o dane osobowe**
-🚫 **Bez NSFW dźwięków w voice chat**
-🚫 **Unikaj wulgaryzmów jako formy przecinkowej**
-🚫 **Bez spamu promocyjnego**
+### **14. Nasze wartości - podsumowanie**
+✅ **Okazuj szacunek i życzliwość**
+✅ **Zachowuj spokój w dyskusjach** 
+✅ **Dziel się wiedzą konstruktywnie**
+✅ **Dbaj o profesjonalny wizerunek**
+✅ **Udostępniaj bezpieczne materiały**
+✅ **Wspieraj przyjazną atmosferę**
+✅ **Szanuj prywatność i własność intelektualną**
+✅ **Promuj równość i różnorodność**
+✅ **Taguj z umiarem i celem**
+✅ **Buduj, nie burz**
+✅ **Ucz się i ucz innych**
+✅ **Dbaj o bezpieczeństwo społeczności**
+✅ **Korzystaj z legalnych narzędzi**
+✅ **Szanuj czas innych**
+✅ **Komunikuj się jasno i zwięźle**
+✅ **Wybieraj właściwe kanały**
+✅ **Bądź częścią rozwiązania**
+✅ **Ciesz się wspólną nauką!**
 
 ---
 
 *"Razem budujemy profesjonalną społeczność polskich architektów oprogramowania i programistów!"*
 
-**Akceptując dostęp do forum oświadczasz, że przeczytałeś i akceptujesz wszystkie zasady.**
+**Dołączając do forum wyrażasz chęć współtworzenia pozytywnej społeczności zgodnie z powyższymi wartościami.**
 
 ---
 *© 2025 Order of Devs Community*
