@@ -56,7 +56,6 @@
 - 💎 **Nie bądź trollem** - jakość ponad ilość
 - 🎯 **Taguj rozważnie** - tylko gdy to naprawdę potrzebne
 - 📝 **Formułuj zwięźle** - jedna myśl na wiadomość
-- 🎵 **Korzystaj z botów muzycznych odpowiedzialnie**
 - 🔄 **Unikaj powtórzeń** - sprawdź czy ktoś już odpowiedział
 - 💬 **Przyjmuj wszystkie głosy w dyskusji** - na otwartym forum każdy może się wypowiedzieć. Stwierdzenia typu "nie interesuje mnie twoja opinia" czy "kończę ten wątek" są niewłaściwe - jeśli potrzebujesz zamkniętej dyskusji, użyj kanału głosowego lub wiadomości prywatnych. Wyjątek: administratorzy mogą zakończyć dyskusję, gdy wymaga tego dobro społeczności
 
@@ -106,7 +105,7 @@ Staramy się najpierw pomóc:
 - 🚨 **Zauważyłeś problem?** Zgłoś przez @Administracja, #pomoc lub reakcję 🚨
 - 📧 **Błąd techniczny?** Opisz szczegóły w DM do @Administracja lub w #pomoc
 - ⏰ **Czekaj cierpliwie** - odpowiadamy jak najszybciej
-- 💡 **Masz pomysł?** Podziel się przez @Administracja lub #pomoc
+- 💡 **Masz pomysł?** Przeczytaj [Proces decyzyjny](https://github.com/order-of-devs/.github/blob/main/dokumenty/discord/proces-decyzyjny.md)  i wyślij na #propozycje
 - ⚖️ **Decyzje moderacyjne** - administratorzy mają ostateczny głos w spornych sytuacjach. Jeśli dyskusja wymyka się spod kontroli lub narusza zasady forum, administrator może ją zakończyć dla dobra społeczności
 
 ---
