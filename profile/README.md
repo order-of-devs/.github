@@ -7,4 +7,5 @@ Witaj na oficjalnym profilu społeczności polskich architektów oprogramowania 
 Poniżej znajdziesz kilka przydatnych linków opisujących sposób działania naszej społeczności. 
 
 - Discord
+  - [Regulamin](/dokumenty/discord/regulamin.md)
   - [Proces Podejmowania Decyzji](/dokumenty/discord/proces-decyzyjny.md)
