@@ -58,10 +58,13 @@ sprawiedliwości.
     - Trwa 7 dni, podczas których członkowie społeczności mogą udzielać feedbacku i dyskutować nad propozycją w wątku.
 
 3. **Faza Głosowania**:
-    - Po zakończeniu dyskusji Rada Decyzyjna głosuje, używając reakcji (np. 👍 za "tak", 👎 za "nie").
+    - Po zakończeniu dyskusji Rada Decyzyjna głosuje, używając reakcji (np. 👍 za "tak", 👎 za "nie", 🤷‍♂️ za 
+      "wstrzymanie się od głosu").
     - Głosowanie trwa 3 dni.
     - Propozycja zostaje zaakceptowana, jeśli otrzyma większość głosów (ponad 50% członków rady).
     - Po zakończeniu głosowania Koordynator podsumowuje wyniki głosowania i przystępuje do realizacji zadania.
+    - Głosowanie może zostać częściowo zamknięte, jeśli jedna z opcji („tak” lub „nie”) osiągnie wystarczająco mocną
+      przewagę i kolejne głosy nie zmienią już decyzji.
 
 4. **Wdrożenie**:
     - Koordynator Zmian wdraża zaakceptowaną propozycję w terminie do 30 dni od jej zatwierdzenia, starając się jednak
@@ -71,8 +74,9 @@ sprawiedliwości.
 ## Przypadki Brzegowe i Rozwiązywanie Konfliktów
 
 - **Remis w Głosowaniu**: W przypadku remisu propozycja zostaje odrzucona.
-- **Nieaktywni Członkowie Rady**: Jeśli członek rady nie głosuje przez okres 3 miesięcy w kolejnych propozycjach, zostaje usunięty, a nowy
-  członek jest wybierany przez pozostałych członków rady i Arbitra.
+- **Nieaktywni Członkowie Rady**: Jeśli członek rady nie głosuje w 3 kolejnych propozycjach lub okresie 3 miesięcy
+  (stosuje się wersje korzystniejszą dla członka rady), zostaje usunięty, a nowy członek jest wybierany
+  przez pozostałych członków rady i Arbitra.
 - **Spory**: Drobne spory rozstrzyga Koordynator Zmian. Poważne spory lub załamania procesu są rozwiązywane przez
   Arbitra.
 - **Przedłużenie Kadencji Koordynatora**: Jeśli po 6 miesiącach nie uda się wybrać nowego Koordynatora, kadencja
