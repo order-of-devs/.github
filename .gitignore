@@ -1,0 +1,39 @@
+# --------------------------
+# IDE / Editors
+# --------------------------
+
+# JetBrains (IntelliJ, PhpStorm, PyCharm, WebStorm, etc.)
+.idea/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# --------------------------
+# Obsidian
+# --------------------------
+.obsidian/
+
+# --------------------------
+# System / OS files
+# --------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --------------------------
+# Backup / temp files
+# --------------------------
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
