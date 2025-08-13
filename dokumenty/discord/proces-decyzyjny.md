@@ -64,9 +64,7 @@ sprawiedliwości.
     - Propozycja zostaje zaakceptowana, jeśli otrzyma większość głosów (ponad 50% członków rady).
     - Po zakończeniu głosowania Koordynator podsumowuje wyniki głosowania i przystępuje do realizacji zadania.
     - Głosowanie może zostać częściowo zamknięte, jeśli jedna z opcji („tak” lub „nie”) osiągnie wystarczająco mocną
-      przewagę i kolejne głosy nie zmienią już decyzji. W takim przypadku pozostałe osoby nadal mogą oddawać swoje
-      głosy do końca terminu, a Koordynator powinien sporządzić dwa podsumowania (pierwsze w momencie zatwierdzania
-      decyzji, drugie z finalnymi głosami po upływie terminu).
+      przewagę i kolejne głosy nie zmienią już decyzji.
 
 4. **Wdrożenie**:
     - Koordynator Zmian wdraża zaakceptowaną propozycję w terminie do 30 dni od jej zatwierdzenia, starając się jednak
