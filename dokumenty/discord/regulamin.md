@@ -120,24 +120,24 @@ Staramy się najpierw pomóc:
 - 🎉 **Najważniejsze**: **CZERP RADOŚĆ ZE WSPÓLNEJ NAUKI!**
 
 ### **14. Nasze wartości - podsumowanie**
-✅ **Okazuj szacunek i życzliwość**
-✅ **Zachowuj spokój w dyskusjach** 
-✅ **Dziel się wiedzą konstruktywnie**
-✅ **Dbaj o profesjonalny wizerunek**
-✅ **Udostępniaj bezpieczne materiały**
-✅ **Wspieraj przyjazną atmosferę**
-✅ **Szanuj prywatność i własność intelektualną**
-✅ **Promuj równość i różnorodność**
-✅ **Taguj z umiarem i celem**
-✅ **Buduj, nie burz**
-✅ **Ucz się i ucz innych**
-✅ **Dbaj o bezpieczeństwo społeczności**
-✅ **Korzystaj z legalnych narzędzi**
-✅ **Szanuj czas innych**
-✅ **Komunikuj się jasno i zwięźle**
-✅ **Wybieraj właściwe kanały**
-✅ **Bądź częścią rozwiązania**
-✅ **Ciesz się wspólną nauką!**
+- ✅ **Okazuj szacunek i życzliwość**
+- ✅ **Zachowuj spokój w dyskusjach** 
+- ✅ **Dziel się wiedzą konstruktywnie**
+- ✅ **Dbaj o profesjonalny wizerunek**
+- ✅ **Udostępniaj bezpieczne materiały**
+- ✅ **Wspieraj przyjazną atmosferę**
+- ✅ **Szanuj prywatność i własność intelektualną**
+- ✅ **Promuj równość i różnorodność**
+- ✅ **Taguj z umiarem i celem**
+- ✅ **Buduj, nie burz**
+- ✅ **Ucz się i ucz innych**
+- ✅ **Dbaj o bezpieczeństwo społeczności**
+- ✅ **Korzystaj z legalnych narzędzi**
+- ✅ **Szanuj czas innych**
+- ✅ **Komunikuj się jasno i zwięźle**
+- ✅ **Wybieraj właściwe kanały**
+- ✅ **Bądź częścią rozwiązania**
+- ✅ **Ciesz się wspólną nauką!**
 
 ---
 
