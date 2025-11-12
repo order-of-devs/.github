@@ -91,4 +91,23 @@ sprawiedliwości.
 - `@mateusz` pełni rolę początkowego Arbitra.
 - Proces zostanie poddany przeglądowi po 6 miesiącach w celu oceny jego skuteczności i wprowadzenia ewentualnych zmian.
 
+
+## Zarządzanie Kanałami (Tworzenie i Archiwizacja)
+
+Aby umożliwić dynamiczny rozwój serwera przy jednoczesnym zachowaniu porządku, wprowadza się uproszczoną procedurę operacyjną dotyczącą zarządzania kanałami.
+
+### 1. Tworzenie Kanałów
+
+* **Propozycja:** Członkowie serwera mogą zgłaszać propozycje utworzenia nowych, granularnych kanałów lub kategorii bezpośrednio do **Koordynatora Zmian** (lub @Administratora).
+* **Wymagania:** Propozycja powinna zawierać krótkie uzasadnienie oraz wskazywać dopasowanie do `mapa-serwera`.
+* **Standardy:** Nowo utworzony kanał musi posiadać **jasny i klarowny opis** celu jego istnienia.
+* **Kanały Tymczasowe:** W przypadku kanałów związanych z konkretnymi wydarzeniami (np. spotkania, Black Friday), opis powinien dodatkowo zawierać **przewidywaną datę ich zamknięcia** , warunek zakończenia cyklu lub archiwizacji.
+
+### 2. Archiwizacja Kanałów
+
+* **Cel:** Unikanie nadmiernej liczby nieaktywnych kanałów.
+* **Proces:** Koordynator Zmian wraz z @Administratora przeprowadza **regularne przeglądy** (np. co 3 miesiące) w celu oceny aktywności na kanałach.
+* **Decyzja:** Kanały, które wykazują znikomą aktywność lub których cel (np. zakończone wydarzenie) przestał być aktualny, są **archiwizowane** lub usuwane.
+
+
 > Nazwy użytkowników w powyższym dokumencie odpowiadają aktualnym członkom serwera [Discord Order of Devs](https://discord.gg/9NzhJ4kWze).
